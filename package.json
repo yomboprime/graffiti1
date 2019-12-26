@@ -1,0 +1,18 @@
+{
+    "name": "DemoServer",
+    "version": "1.0.0",
+    "keywords": [
+        "http",
+        "game",
+        "server"
+    ],
+    "author": "yomboprime",
+    "contributors": [],
+    "dependencies": {
+        "express": "^4.16.4"
+    },
+    "scripts": {
+        "start": "node server.js"
+    },
+    "license": "MIT"
+}
